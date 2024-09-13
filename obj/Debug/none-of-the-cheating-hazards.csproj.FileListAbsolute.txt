@@ -1,0 +1,6 @@
+C:\Users\koolaid\Documents\csprojs\dif\ultrakill-no-cheat-penalty\obj\Debug\none-of-the-cheating-hazards.csproj.AssemblyReference.cache
+C:\Users\koolaid\Documents\csprojs\dif\ultrakill-no-cheat-penalty\obj\Debug\none-of-the-cheating-hazards.csproj.CoreCompileInputs.cache
+C:\Users\koolaid\Documents\csprojs\dif\ultrakill-no-cheat-penalty\bin\Debug\none-of-the-cheating-hazards.dll
+C:\Users\koolaid\Documents\csprojs\dif\ultrakill-no-cheat-penalty\bin\Debug\none-of-the-cheating-hazards.pdb
+C:\Users\koolaid\Documents\csprojs\dif\ultrakill-no-cheat-penalty\obj\Debug\none-of-the-cheating-hazards.dll
+C:\Users\koolaid\Documents\csprojs\dif\ultrakill-no-cheat-penalty\obj\Debug\none-of-the-cheating-hazards.pdb

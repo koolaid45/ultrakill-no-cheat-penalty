@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using HarmonyLib;
 
-namespace none_of_the_cheating_hazards
+[HarmonyPatch]
+public class RemoveCheatConsequence
 {
-    public class Class1
+    
+[HarmonyPatch]
+    public class FunniRankPatch
     {
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(GameStateManager), "CanSubmitScores", MethodType.Getter)]
+        static void ScoresSubmission(ref bool __result) => __result = true;
     }
 }
