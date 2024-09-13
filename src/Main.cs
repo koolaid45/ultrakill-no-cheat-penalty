@@ -1,5 +1,5 @@
 ﻿using HarmonyLib;
-
+using ULTRAKILL;
 [HarmonyPatch]
 public class RemoveCheatConsequence
 {

@@ -4,3 +4,6 @@ C:\Users\koolaid\Documents\csprojs\dif\ultrakill-no-cheat-penalty\bin\Debug\none
 C:\Users\koolaid\Documents\csprojs\dif\ultrakill-no-cheat-penalty\bin\Debug\none-of-the-cheating-hazards.pdb
 C:\Users\koolaid\Documents\csprojs\dif\ultrakill-no-cheat-penalty\obj\Debug\none-of-the-cheating-hazards.dll
 C:\Users\koolaid\Documents\csprojs\dif\ultrakill-no-cheat-penalty\obj\Debug\none-of-the-cheating-hazards.pdb
+C:\Users\koolaid\Documents\csprojs\dif\ultrakill-no-cheat-penalty\bin\Debug\0Harmony.dll
+C:\Users\koolaid\Documents\csprojs\dif\ultrakill-no-cheat-penalty\bin\Debug\Assembly-CSharp.dll
+C:\Users\koolaid\Documents\csprojs\dif\ultrakill-no-cheat-penalty\obj\Debug\none-of-.FD80BF9B.Up2Date
